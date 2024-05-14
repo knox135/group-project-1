@@ -12,9 +12,9 @@ In this challenge we looking into past and current seasonal data to project the 
     2. Teams Statistics (2015-2024)
     4. Player Statistics (2015-2024)
 - Combined necessary data points
-    1. Seasonal data into a single DataFrame
-- Assess the data, looking at specific years that any team or player was in the playoff
-    1. TBD
+    1. Seasonal game data with Player game data into a single DataFrame
+- Assess the data
+    1. Looking at the +/- values assigned per game per player to forecast the overall team matchups to determine the potential winner
 - Use Prophet to forecast future data
     1. Apply the DataFrame(s) to Prophet using 'fit'
     2. Visualize the data to see the forecasted results
