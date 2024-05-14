@@ -19,3 +19,5 @@ In this challenge we looking into past and current seasonal data to project the 
     1. Apply the DataFrame(s) to Prophet using 'fit'
     2. Visualize the data to see the forecasted results
 
+## Resources
+1. https://rapidapi.com/api-sports/api/api-nba
