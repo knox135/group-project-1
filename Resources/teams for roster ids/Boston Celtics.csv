@@ -1,0 +1,22 @@
+id,firstname,lastname,college,affiliation,birth.date,birth.country,nba.start,nba.pro,height.feets,height.inches,height.meters,weight.pounds,weight.kilograms,leagues.standard.jersey,leagues.standard.active,leagues.standard.pos,leagues.vegas.jersey,leagues.vegas.active,leagues.vegas.pos,leagues.utah.jersey,leagues.utah.active,leagues.utah.pos,leagues.sacramento.jersey,leagues.sacramento.active,leagues.sacramento.pos
+75,Jaylen,Brown,California,California/USA,1996-10-24,USA,2016,5,6,6,1.98,223,101.2,7.0,True,G-F,,,,,,,,,
+882,Jayson,Tatum,Duke,Duke/USA,1998-03-03,USA,2017,4,6,8,2.03,210,95.3,,True,F-G,,,,,,,,,
+897,Derrick,White,Colorado,Colorado/USA,1994-07-02,USA,2017,4,6,4,1.93,190,86.2,9.0,True,G,4.0,True,G,4.0,True,G,,,
+819,Luke,Kornet,Vanderbilt,Vanderbilt/USA,1995-07-15,USA,2017,4,7,2,2.18,250,113.4,40.0,True,C-F,2.0,True,F-C,,,,,,
+1006,Svi,Mykhailiuk,Kansas,Kansas/Ukraine,1997-06-10,Ukraine,2018,3,6,7,2.01,205,93.0,17.0,True,G-F,19.0,True,G,,,,10.0,True,F
+2110,Oshae,Brissett,Syracuse,Syracuse/Canada,1998-06-20,Canada,2019,2,6,7,2.01,210,95.3,12.0,True,F-G,12.0,True,F,,,,,,
+970,Wenyen,Gabriel,Kentucky,Kentucky/South Sudan,1997-03-26,South Sudan,2019,2,6,9,2.06,205,93.0,35.0,True,F,32.0,True,F,,,,32.0,True,F
+2844,Neemias,Queta,Utah State,Utah State/Portugal,1999-07-13,Portugal,2021,0,7,0,2.13,248,112.5,88.0,True,C,88.0,True,C,,,,88.0,True,C
+2635,Payton,Pritchard,Oregon,Oregon/USA,1998-01-28,USA,2020,1,6,1,1.85,195,88.5,11.0,True,G,11.0,True,G,,,,,,
+2647,Lamar,Stevens,Penn State,Penn State/USA,1997-07-09,USA,2020,1,6,6,1.98,230,104.3,8.0,True,F,8.0,True,F,,,,,,
+2656,Xavier,Tillman,Michigan State,Michigan State/USA,1999-01-12,USA,2020,1,6,8,2.03,245,111.1,2.0,True,F,2.0,True,F-C,2.0,True,F-C,,,
+2851,Jaden,Springer,Tennessee,Tennessee/USA,2002-09-25,USA,2021,0,6,4,1.93,202,91.6,11.0,True,G,11.0,True,G,11.0,True,G,,,
+2921,DJ,Steward,Duke,Duke/USA,2001-10-02,USA,0,0,6,2,1.88,163,73.9,,True,G,18.0,True,G,,,,18.0,True,G
+2812,Sam,Hauser,Virginia,Virginia/USA,1997-12-08,USA,2021,0,6,7,2.01,217,98.4,30.0,True,F,30.0,True,F,,,,,,
+2788,Dalano,Banton,Nebraska,Nebraska/Canada,1999-11-07,Canada,2021,0,6,7,2.01,204,92.5,45.0,True,F,45.0,True,G,,,,,,
+3429,JD,Davison,,,,,0,0,,,,,,20.0,True,G,,,,,,,,,
+3943,Jordan,Walsh,Arkansas,,,,0,0,6,,,205,,27.0,True,G,,,,,,,,,
+3995,Drew,Peterson,USC,,,,0,0,6,,,205,,17.0,True,F,,,,,,,,,
+248,Al,Horford,Florida,Florida/Dominican Republic,1986-06-03,Dominican Republic,2007,14,6,9,2.06,240,108.9,42.0,True,C-F,,,,,,,,,
+242,Jrue,Holiday,UCLA,UCLA/USA,1990-06-12,USA,2009,12,6,3,1.9,205,93.0,21.0,True,G,,,,,,,,,
+432,Kristaps,Porzingis,Cajasol Sevilla,Cajasol Sevilla/Latvia,1995-08-02,Latvia,2015,5,7,3,2.21,240,108.9,6.0,True,F-C,,,,,,,,,

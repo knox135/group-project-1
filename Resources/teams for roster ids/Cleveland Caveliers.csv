@@ -1,0 +1,22 @@
+id,firstname,lastname,college,affiliation,birth.date,birth.country,nba.start,nba.pro,height.feets,height.inches,height.meters,weight.pounds,weight.kilograms,leagues.standard.jersey,leagues.standard.active,leagues.standard.pos,leagues.sacramento.jersey,leagues.sacramento.active,leagues.sacramento.pos,leagues.vegas.jersey,leagues.vegas.active,leagues.vegas.pos,leagues.utah.jersey,leagues.utah.active,leagues.utah.pos
+281,Damian,Jones,Vanderbilt,Vanderbilt/USA,1995-06-30,USA,2016,5,6,11,2.11,245,111.1,30.0,True,C,25.0,True,C,15.0,True,C,,,
+317,Caris,LeVert,Michigan,Michigan/USA,1994-08-25,USA,2016,5,6,6,1.98,205,93.0,3.0,True,G,,,,22.0,True,G-F,,,
+391,Georges,Niang,Iowa State,Iowa State/USA,1993-06-17,USA,2016,5,6,7,2.01,230,104.3,20.0,True,F,,,,31.0,True,F,31.0,True,F
+840,Donovan,Mitchell,Louisville,Louisville/USA,1996-09-07,USA,2017,4,6,1,1.85,215,97.5,45.0,True,G,,,,,,,,,
+727,Jarrett,Allen,Texas,Texas/USA,1998-04-21,USA,2017,4,6,10,2.08,243,110.2,31.0,True,C,,,,31.0,True,C,,,
+1025,Zhaire,Smith,Texas Tech,Texas Tech/USA,1999-06-04,USA,2018,2,6,3,1.9,205,93.0,5.0,True,G,,,,8.0,True,G-F,,,
+2051,Max,Strus,DePaul,DePaul/USA,1996-03-28,USA,2019,2,6,5,1.96,220,99.8,31.0,True,G-F,31.0,True,G-F,31.0,True,G-F,,,
+1860,Darius,Garland,Vanderbilt,Vanderbilt/USA,2000-01-26,USA,2019,2,6,1,1.85,192,87.1,10.0,True,G,,,,10.0,True,G,10.0,True,G
+1870,Ty,Jerome,Virginia,Virginia/USA,1997-07-08,USA,2019,2,6,5,1.96,195,88.5,16.0,True,G-F,,,,,,,,,
+2392,Dean,Wade,Kansas State,Kansas State/USA,1996-11-20,USA,2019,2,6,9,2.06,228,103.4,32.0,True,F-C,,,,,,,,,
+2630,Isaac,Okoro,Auburn,Auburn/USA,2001-01-26,USA,2020,1,6,5,1.96,225,102.1,35.0,True,F-G,,,,35.0,True,G,,,
+2623,Sam,Merrill,Utah State,Utah State/USA,1996-05-15,USA,2020,0,,,,,,20.0,True,G,,,,25.0,True,G,,,
+2800,Sharife,Cooper,Auburn,Auburn/USA,2001-06-11,USA,2021,0,6,1,1.85,176,79.8,2.0,True,G,,,,2.0,True,G,,,
+2835,Evan,Mobley,Southern California,Southern California/USA,2001-06-18,USA,2021,0,6,11,2.11,215,97.5,4.0,True,C,,,,4.0,True,F-C,,,
+3472,Isaiah,Mobley,,,,,0,0,,,,,,15.0,True,F,,,,15.0,True,F,,,
+3956,Emoni,Bates,Eastern Michigan,,,,0,0,6,,,170,,21.0,True,F,,,,,,,,,
+3957,Pete,Nance,North Carolina,,,,0,0,6,,,230,,48.0,True,F,,,,,,,,,
+3958,Justin,Powell,Washington State,,,,0,0,6,,,197,,,True,G,,,,,,,,,
+4043,Craig Jr.,Porter,Wichita State,,,,0,0,6,,,186,,40.0,True,G,,,,,,,,,
+515,Tristan,Thompson,Texas-Austin,Texas-Austin/Canada,1991-03-13,Canada,2011,10,6,9,2.06,254,115.2,3.0,True,C-F,,,,,,,,,
+373,Marcus,Morris Sr.,Kansas,Kansas/USA,1989-09-02,USA,2011,10,6,8,2.03,218,98.9,8.0,True,F,,,,,,,,,
