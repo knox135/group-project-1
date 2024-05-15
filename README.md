@@ -19,5 +19,11 @@ In this challenge we looking into past and current seasonal data to project the 
     1. Apply the DataFrame(s) to Prophet using 'fit'
     2. Visualize the data to see the forecasted results
 
+## Usage
+
+The primary notebook to review is that of nuggetsvwolves.ipynb. This notebook is the analysis of player and team data for the Denver Nuggets and the Minnesota Timberwolves. All of the remaining notebooks found within the root folder of the project as well as those in the team players and teams folders were utilized for data gathering to provide a snapshot of data in time that we could collectively use for the examination and forecasting to determine the winner of the matchup.
+
+The supporting notebooks demonstrate data lookup from an api, loading it into a dataframe and outputting that data as a csv file.
+
 ## Resources
 1. https://rapidapi.com/api-sports/api/api-nba
