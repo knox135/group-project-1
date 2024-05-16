@@ -3,7 +3,7 @@
 # Group Project 1 - 2023/24 NBA Season and Playoff Analysis
 
 In this challenge we looking into past and current seasonal data to project the possible outcome of the playoffs. The data will be gathered from rapid api which is an overlay to api-sports. With a focus on the final 8 teams playing.
-'Oklahoma City Thunder', 'Dallas Mavericks', 'Minnesota Timberwolves', 'Denver Nuggets', 'Boston Celtics', 'Cleveland Cavaliers', 'Indiana Pacers', 'New York Knicks'
+Oklahoma City Thunder vs. Dallas Mavericks, Minnesota Timberwolves vs. Denver Nuggets, Boston Celtics vs. Cleveland Cavaliers, Indiana Pacers vs. New York Knicks'
 
 ## Workflow
 
@@ -25,5 +25,11 @@ The primary notebook to review is that of nuggetsvwolves.ipynb. This notebook is
 
 The supporting notebooks demonstrate data lookup from an api, loading it into a dataframe and outputting that data as a csv file.
 
+## Summary
+
+Overall we have forecasted the Boston Celtics, New York Knicks, Minnesota Timberwolves and Oklahoma City Thunder going to the their Conference Finals. The forecasting of our model for the series matchups has successfully predicted the outcome of the Boston-Cleveland matchup with Boston defeating Cleveland. The other series are still in progress and accuracy yet to be determined.
+
+
 ## Resources
+
 1. https://rapidapi.com/api-sports/api/api-nba
