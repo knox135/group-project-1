@@ -33,3 +33,4 @@ Overall we have forecasted the Boston Celtics, New York Knicks, Minnesota Timber
 ## Resources
 
 1. https://rapidapi.com/api-sports/api/api-nba
+2. https://docs.google.com/presentation/d/17kB6GetWJoyEItPd8sVVRUJeEvyorCxTyxNCFIzjbYs/edit?usp=sharing
