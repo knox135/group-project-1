@@ -21,7 +21,13 @@ Oklahoma City Thunder vs. Dallas Mavericks, Minnesota Timberwolves vs. Denver Nu
 
 ## Usage
 
-The primary notebook to review is that of nuggetsvwolves.ipynb. This notebook is the analysis of player and team data for the Denver Nuggets and the Minnesota Timberwolves. All of the remaining notebooks found within the root folder of the project as well as those in the team players and teams folders were utilized for data gathering to provide a snapshot of data in time that we could collectively use for the examination and forecasting to determine the winner of the matchup.
+The notebooks to review and run can be found in the matchups folder.
+1. cavsvceltics.ipynb
+2. knicksvpacers.ipynb
+3. mavsvthunder.ipynb
+4. nuggetsvwolves.ipynb
+
+These notebooks are the analysis of player and team data for the each matchup of the second round of the 2024 NBA Playoffs. All of the remaining notebooks found within team players, teams folders and the root folder were utilized for data gathering to provide a snapshot of data in time that we could collectively use for the examination and forecasting to determine the winners of the matchups.
 
 The supporting notebooks demonstrate data lookup from an api, loading it into a dataframe and outputting that data as a csv file.
 
